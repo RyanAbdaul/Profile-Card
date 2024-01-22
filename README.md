@@ -4,3 +4,9 @@
 
 ___
 ## Links 
+[The design live](https://ryanabdaul.github.io/Profile-Card/).  
+[The Challenge](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub)
+___
+## Made by
+**Github**: [Ryan Abdaulaziz](https://github.com/RyanAbdaul)  
+**Frontend Mentor**: [Ryan Abdaulziz](https://www.frontendmentor.io/profile/RyanAbdaul)
